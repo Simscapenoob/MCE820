@@ -1,0 +1,3 @@
+To run the the LSTM training program for the final LSTM, run the Jupyter notebook file 
+LSTM_training_program from the same folder as the datafiles ia, ib, ic, N_measure, PLL_speed, Vafa, and Vbet. 
+The final parameters of the LSTM can be found in LSTM_final_parameters in matlab format.
